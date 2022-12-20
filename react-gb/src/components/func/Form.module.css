@@ -1,0 +1,12 @@
+.border {
+    border: 1px solid blueviolet;
+    color: blue;
+}
+
+.click {
+    color: red;
+    padding: 15px;
+    margin: 15px;
+    width: 150px;
+    background-color: aqua;
+}
